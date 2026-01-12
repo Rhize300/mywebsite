@@ -1,0 +1,79 @@
+{
+  "timestamp": "2025-07-27 19:38:27",
+  "total_tested": 10,
+  "phishing_detected": 8,
+  "legitimate_detected": 0,
+  "detection_rate": 80.0,
+  "results": [
+    {
+      "no": 1,
+      "url": "http://bafkreieti7yk7oz2gq3vobxm7wbe42wtgqtkv6ibai4xjudeaisp6neysa.ipfs.dweb.link/",
+      "prediction": -1,
+      "confidence": 0.52,
+      "status": "LEGITIMATE"
+    },
+    {
+      "no": 2,
+      "url": "https://www-kleinanzeigen-de-adblock.kagiproxy.com/s-beliebte-suchen.html",
+      "prediction": 1,
+      "confidence": 0.93,
+      "status": "PHISHING"
+    },
+    {
+      "no": 3,
+      "url": "http://mll-coral.vercel.app/",
+      "prediction": 1,
+      "confidence": 0.78,
+      "status": "PHISHING"
+    },
+    {
+      "no": 4,
+      "url": "https://bdoonline.something-wrong-e94.workers.dev/bdo-form/dnytnNbjfuXM76hpvNaxML6Lb9KpS44PgRSLIAnuIK",
+      "prediction": 1,
+      "confidence": 0.9,
+      "status": "PHISHING"
+    },
+    {
+      "no": 5,
+      "url": "https://www-kleinanzeigen-de-adblock.kagiproxy.com/impressum.html",
+      "prediction": 1,
+      "confidence": 0.93,
+      "status": "PHISHING"
+    },
+    {
+      "no": 6,
+      "url": "http://www-apple.nc-jjw.com/account/?support=Lb1e7g2BGZ8x0CFKb5VhiJjW",
+      "prediction": 1,
+      "confidence": 0.78,
+      "status": "PHISHING"
+    },
+    {
+      "no": 7,
+      "url": "https://form-builder-en.pifyapp.com/form/s/33486",
+      "prediction": 1,
+      "confidence": 0.93,
+      "status": "PHISHING"
+    },
+    {
+      "no": 8,
+      "url": "https://www.kkinstagram.com/reel/DKfBEo8xnhg/",
+      "prediction": 1,
+      "confidence": 0.86,
+      "status": "PHISHING"
+    },
+    {
+      "no": 9,
+      "url": "https://meta-policy-violation-id152334829-e.vercel.app/help/facebook.meta.com-business-case-id155038421992698.html",
+      "prediction": 1,
+      "confidence": 0.9,
+      "status": "PHISHING"
+    },
+    {
+      "no": 10,
+      "url": "http://cs2bus.com/",
+      "prediction": -1,
+      "confidence": 0.55,
+      "status": "LEGITIMATE"
+    }
+  ]
+}
