@@ -1,0 +1,11 @@
+No,URL,Kategori,Target,Fitur,Status_Akses,Tanggal_Test
+1,http://www-apple.nc-jjw.com/account/?support=Lb1e7g2BGZ8x0CFKb5VhiJjW,Apple ID Phishing,Pengguna Apple,Halaman login Apple yang palsu,AKTIF,2025-07-27
+2,https://meta-policy-violation-id152334829-e.vercel.app/help/facebook.meta.com-business-case-id155038421992698.html,Facebook/Meta Phishing,Pengguna Facebook,Halaman pelanggaran kebijakan palsu,AKTIF,2025-07-27
+3,https://bdoonline.something-wrong-e94.workers.dev/bdo-form/dnytnNbjfuXM76hpvNaxML6Lb9KpS44PgRSLIAnuIK,Banking Phishing,Nasabah BDO Bank,Formulir bank online palsu,AKTIF,2025-07-27
+4,https://www.kkinstagram.com/reel/DKfBEo8xnhg/,Social Media Phishing,Pengguna Instagram,Clone Instagram dengan domain mirip,AKTIF,2025-07-27
+5,https://subhash04042005.github.io/netflix-clone.github.io,Streaming Service Phishing,Pengguna Netflix,Clone Netflix untuk mencuri kredensial,AKTIF,2025-07-27
+6,https://form-builder-en.pifyapp.com/form/s/33486,Generic Form Phishing,Umum,Formulir untuk mengumpulkan data pribadi,AKTIF,2025-07-27
+7,https://netzero-email-access.webflow.io/,Email Service Phishing,Pengguna email,Halaman akses email palsu,AKTIF,2025-07-27
+8,https://2607-privacy-policies-data-privacy-coral.vercel.app/violatepage.html,Policy Violation Phishing,Umum,Halaman pelanggaran privasi palsu,AKTIF,2025-07-27
+9,http://cs2bus.com/,Gaming Phishing,Gamers,Situs game palsu,AKTIF,2025-07-27
+10,http://mll-coral.vercel.app/,Generic Phishing,Umum,Situs phishing umum,AKTIF,2025-07-27 
